@@ -1,0 +1,9 @@
+names:
+- Oil Spill
+- Look-alike
+- Ship
+- Land
+nc: 4
+test: data/yolo/test
+train: data/yolo/train
+val: data/yolo/val
